@@ -1,6 +1,6 @@
 # Project Proposal
 
-Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
+Write a proposal for a mobile web application you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
 
 ## Collaboration
 
