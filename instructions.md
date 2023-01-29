@@ -4,7 +4,7 @@ Write a proposal for a mobile web application you would like to pursue for the m
 
 ## Collaboration
 
-You are welcome to write a proposal with up to 5 other students, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal.
+You are welcome to write a proposal with up to 5 other students, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal, where the names link to their GitHub user profiles.
 
 ## What to include
 
@@ -36,11 +36,11 @@ A brief justification that the proposal is neither too easy nor too ambitions fo
 
 ## Submission
 
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The message should be nicely formatted and outlined with a clear heading and sub-headings for each section.
+Complete the assignment as a Markdown document in the file named `README.md` in this repository. The docuement should be nicely formatted and outlined with a clear heading and sub-headings for each section.
 
 Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
 
-Share the link to your document in your private assignments Discord channel AND in the public #project-ideas channel. In both cases, include the title of your project for all to see in the message.
+Share the link to your document in your private assignments Discord channel AND in the public `#project-ideas` channel. In both cases, include the title of your project for all to see in the message.
 
 ## What happens next
 
