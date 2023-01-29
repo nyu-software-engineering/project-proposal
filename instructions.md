@@ -6,7 +6,17 @@ Write a proposal for a mobile web application you would like to pursue for the m
 
 You are welcome to write a proposal with up to 2 other students, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal, where the names link to their GitHub user profiles.
 
-## What to include
+## Editing files in this repository
+
+This repository has presumably been created for you on GitHub.com. To download a copy of this repository onto your own computer so you can edit it, you will need to use **git** to `clone` it to your own computer. Once cloned, you can use a code editor to edit the files in the repository. Once done editing, you will need to use **git** again to `add` your changes, `commit` them, and then `push` them back to GitHub. Any good code editor should allow you to do the git operations by clicking buttons in the interface.
+
+To `clone` a GitHub repository in Visual Studio Code:
+![Clone within Visual Studio Code](../assets/vscode-clone.png)
+
+To `add`, `commit`, and `push` the changes you have made back to GitHub:
+![Add, commit, and push within Visual Studio Code](../assets/vscode-commit.png)
+
+## What edits to include
 
 Your proposal must focus on the product's value proposition, including answers to the questions below. Keep it thorough but concise. If you are not clear on whether your writing is any good, consult with a friend.
 
@@ -36,7 +46,7 @@ A brief justification that the proposal is neither too easy nor too ambitions fo
 
 ## Submission
 
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The docuement should be nicely formatted and outlined with a clear heading and sub-headings for each section.
+Complete the assignment as a Markdown document in the file named `README.md` in this repository. The document should be nicely formatted and outlined with a clear heading and sub-headings for each section.
 
 Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
 
