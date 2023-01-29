@@ -4,7 +4,7 @@ Write a proposal for a mobile web application you would like to pursue for the m
 
 ## Collaboration
 
-You are welcome to write a proposal with up to 5 other students, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal, where the names link to their GitHub user profiles.
+You are welcome to write a proposal with up to 2 other students, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal, where the names link to their GitHub user profiles.
 
 ## What to include
 
