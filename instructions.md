@@ -11,10 +11,12 @@ You are welcome to write a proposal with up to 2 other students, if desired. If 
 This repository has presumably been created for you on GitHub.com. To download a copy of this repository onto your own computer so you can edit it, you will need to use **git** to `clone` it to your own computer. Once cloned, you can use a code editor to edit the files in the repository. Once done editing, you will need to use **git** again to `add` your changes, `commit` them, and then `push` them back to GitHub. Any good code editor should allow you to do the git operations by clicking buttons in the interface.
 
 To `clone` a GitHub repository in Visual Studio Code:
-![Clone within Visual Studio Code](../assets/vscode-clone.png)
+![Clone within Visual Studio Code](./assets/vscode-assignment-clone.png)
+
+Then use the editor to make changes.
 
 To `add`, `commit`, and `push` the changes you have made back to GitHub:
-![Add, commit, and push within Visual Studio Code](../assets/vscode-commit.png)
+![Add, commit, and push within Visual Studio Code](./assets/vscode-assignment-commit.png)
 
 ## What edits to include
 
