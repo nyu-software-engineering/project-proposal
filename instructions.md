@@ -52,7 +52,7 @@ Complete the assignment as a Markdown document in the file named `README.md` in 
 
 Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
 
-Share the link to your document in your private assignments Discord channel AND in the public `#project-ideas` channel. In both cases, include the title of your project for all to see in the message.
+Share the link to your document in your personal private Discord channel AND in the public `#project-ideas` channel. In both cases, include the title of your project for all to see in the message.
 
 ## What happens next
 
