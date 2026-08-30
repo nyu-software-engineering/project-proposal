@@ -8,7 +8,7 @@ You are welcome to work in a team of up to 5 people on this proposal, if desired
 
 ## Editing files in this repository
 
-This repository has presumably been created for you on GitHub.com. To download a copy of this repository onto your own computer so you can edit it, you will need to use **git** to `clone` it to your own computer. Once cloned, you can use a code editor to edit the files in the repository. Once done editing, you will need to use **git** again to `add` your changes, `commit` them, and then `push` them back to GitHub. Any good code editor should allow you to do the git operations by clicking buttons in the interface.
+Start by clicking the `Fork` button towards the top-right of this page on GitHub, which makes your own copy of this repository in your own GitHub account. To download that copy onto your own computer so you can edit it, you will need to use **git** to `clone` it to your own computer. Take care to clone your own fork rather than this original repository. Once cloned, you can use a code editor to edit the files in the repository. Once done editing, you will need to use **git** again to `add` your changes, `commit` them, and then `push` them back to GitHub. Any good code editor should allow you to do the git operations by clicking buttons in the interface.
 
 To `clone` a GitHub repository in Visual Studio Code:
 ![Clone within Visual Studio Code](./assets/vscode-assignment-clone.png)
